@@ -1,4 +1,4 @@
 def reverse_each_word(array)
-  newarray = array.reverse
+  newarray = array.reverse!
   
 end
