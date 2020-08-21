@@ -1,6 +1,4 @@
-def reverse_each_word(string)
-  reverse = []
-  string.collect do |letter|
-    reverse.push(letter)
+def reverse_each_word(array)
+  newarray = []
   end
 end
